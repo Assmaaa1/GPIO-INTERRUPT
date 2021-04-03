@@ -3,7 +3,7 @@
 void systickDelayMs(int n);
  
 /* MACRO FOR MAIN LOOP */
-#define AHB1_CLK_EN (1<<0)|(1<<3)
+#define AHB1_CLK_EN (1<<1)|(1<<3)
 #define APB2_CLK_EN (1<<14)
 #define PIN_PD15_MODE (1<<30)|(0<<31)
 #define EXTERNAL_INTERRUPT_LINE (1<<4)
