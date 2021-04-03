@@ -8,4 +8,5 @@ Used ressources:
 
 How To Execute:
 
-Open the project file "GPIO Interrupt Driver" using keil uvision compiler  , build the project then download it into the Board.
+Open the project file "GPIO Interrupt Driver" using keil uvision compiler  , \
+build the project then download it into the Board.
